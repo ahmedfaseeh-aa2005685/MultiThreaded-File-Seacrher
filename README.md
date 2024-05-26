@@ -27,9 +27,4 @@ The application measures and reports:
 - Individual thread timing for load distribution analysis.
 - Consistent and complete search results even with concurrent thread operations.
 
-## Important Notes
-1. Programming Language: Java
-2. Avoid using Java's built-in file search libraries; utilize Linux commands for learning purposes.
-3. Ensure proper multi-threading and synchronization implementation for data consistency and efficiency.
-
 This project serves as a practical exercise to demonstrate understanding and implementation skills in advanced computing concepts within Java.
