@@ -1,4 +1,4 @@
-Parallel File Search Engine
+# Parallel File Search Engine
 
 Project Description
 The Parallel File Search Engine is a Java-based application designed to efficiently search for a specified keyword across multiple text files concurrently. It leverages advanced computing concepts such as multi-threading, socket programming, scheduling, and synchronization to achieve robust performance and scalability.
